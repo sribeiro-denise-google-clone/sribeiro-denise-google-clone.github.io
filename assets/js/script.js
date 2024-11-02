@@ -10,7 +10,7 @@ const botaoEstouComSorte = document.querySelector(`form [type="button"]`);
 
 botaoEstouComSorte.addEventListener("click", () => {
 
-    location.href = "https://class.hacode.com.br"
+    location.href = "https://class.hcode.com.br"
 
 })
 
